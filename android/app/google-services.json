@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "933456488002",
+    "firebase_url": "https://bus-route-tracker-5d0e2-default-rtdb.firebaseio.com",
+    "project_id": "bus-route-tracker-5d0e2",
+    "storage_bucket": "bus-route-tracker-5d0e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933456488002:android:26ac2f8cf168a4ac0eefdb",
+        "android_client_info": {
+          "package_name": "com.example.bus_route_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaEOT-YqW7fapYpExyuNIlBbw_TDJWks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
