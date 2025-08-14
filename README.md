@@ -5,7 +5,7 @@ Bus Route Finder is a Flutter app that helps users find bus routes, locate nearb
  Features
 -  Search bus routes
 -  Nearby bus stops
--  Real-time bus location (Firebase + Maps)
+-  Show bus name
 -  Firebase Auth (email/password)
 -  Firestore for route data
 
