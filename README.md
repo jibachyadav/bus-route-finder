@@ -1,16 +1,22 @@
-# bus_route_finder
+ Bus Route Finder (Flutter)
 
-A new Flutter project.
+Bus Route Finder is a Flutter app that helps users find bus routes, locate nearby bus stops, and view live bus status.
 
-## Getting Started
+ Features
+-  Search bus routes
+-  Nearby bus stops
+-  Real-time bus location (Firebase + Maps)
+-  Firebase Auth (email/password)
+-  Firestore for route data
 
-This project is a starting point for a Flutter application.
+ Tech Stack
+Flutter • Firebase Auth • Cloud Firestore • Google Maps API
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Setup
+1. Install Flutter & Android Studio.
+2. Clone the repo:
+   ```bash
+   git clone https://github.com/jibachyadav/bus-route-finder.git
+   cd bus-route-finder
+   flutter pub get
+   flutter run
