@@ -20,3 +20,7 @@ Flutter • Firebase Auth • Cloud Firestore • Google Maps API
    cd bus-route-finder
    flutter pub get
    flutter run
+
+
+
+   [QR Code](assets/qr.png)
