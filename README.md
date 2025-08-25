@@ -24,3 +24,5 @@ Flutter • Firebase Auth • Cloud Firestore • Google Maps API
 
 
    [QR Code](assets/qr.png)
+
+   [![QR Code](assets/qr.png)](assets/qr.png)
